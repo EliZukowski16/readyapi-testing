@@ -1,0 +1,1 @@
+Testing executions of the ready-api-maven-plugin when different maven repository settings are used
